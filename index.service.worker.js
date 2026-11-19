@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795074687|70208824';
+const CACHE_VERSION = '1795075204|32416663';
 /** @type {string} */
 const CACHE_PREFIX = '슈퍼랜덤게임-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
